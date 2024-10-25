@@ -14,15 +14,15 @@
 ## Features
 
 * 🔒 Full account management.
-  * Add multiple accounts and easily switch between them.
-  * Microsoft (OAuth 2.0) + Mojang (Yggdrasil) authentication fully supported.
-  * Credentials are never stored and transmitted directly to Mojang.
+  * 여러 계정을 추가하고 쉽게 전환할 수 있습니다.
+  * Microsoft (OAuth 2.0) 및 Mojang (Yggdrasil) 인증을 완벽하게 지원합니다.
+  * 계정 정보는 저장되지 않으며 Mojang으로 직접 전송됩니다.
 * 📂 Efficient asset management.
-  * Receive client updates as soon as we release them.
-  * Files are validated before launch. Corrupt or incorrect files will be redownloaded.
+  * 새로운 클라이언트 업데이트가 출시되면 바로 받을 수 있습니다.
+  * 파일은 실행 전에 검증되며, 손상되거나 잘못된 파일은 다시 다운로드됩니다.
 * ☕ **Automatic Java validation.**
-  * If you have an incompatible version of Java installed, we'll install the right one *for you*.
-  * You do not need to have Java installed to run the launcher.
+  * 호환되지 않는 버전의 Java가 설치되어 있을 경우, 올바른 버전을 자동으로 설치해 드립니다.
+  * 런처를 실행하기 위해 Java를 미리 설치할 필요가 없습니다.
 * 📰 News feed natively built into the launcher.
 * ⚙️ Intuitive settings management, including a Java control panel.
 * Supports all of our servers.
