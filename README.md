@@ -124,6 +124,7 @@ macOS용 빌드는 Windows/Linux에서 작동하지 않을 수 있으며, 그 �
 
 .vscode/launch.json에 다음 내용을 붙여넣으세요.
 
+```JSON
 {
   "version": "0.2.0",
   "configurations": [
@@ -152,6 +153,7 @@ macOS용 빌드는 Windows/Linux에서 작동하지 않을 수 있으며, 그 �
     }
   ]
 }
+```
 
 이 설정은 두 가지 디버그 구성을 추가합니다.
 
